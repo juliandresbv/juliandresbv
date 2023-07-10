@@ -48,8 +48,10 @@
 <h3>Let's connect!</h3>
 
 <p>
-  <a href="https://www.linkedin.com/in/juliandresbv/">
+  <a href="https://www.linkedin.com/in/juliandresbv/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjuliandresbv%2F">
   </a>
-  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https%3A%2F%2Fgithub.com%2Fjuliandresbv">
+  <a href="https://github.com/juliandresbv/" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https%3A%2F%2Fgithub.com%2Fjuliandresbv">
+  </a>
 </p>
